@@ -6,7 +6,7 @@ def factorial(n):
     else:
         toReturn = 1
         while (n>1):
-            toReturn *= n
+            toReturn
             n -= 1
         return toReturn
 print(factorial(5))
